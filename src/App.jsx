@@ -2,7 +2,7 @@ import Footer from "./Components/FooterDiv/Footer"
 import Jobs from "./Components/JobDiv/Jobs"
 import Navbar from "./Components/Navbar/Navbar"
 import Search from "./Components/SearchDiv/Search"
-import Value from "./Components/ValueDiv/Value"
+
 
 
 const App = () => {
@@ -11,7 +11,6 @@ const App = () => {
      <Navbar/>
      <Search/>
      <Jobs/>
-     <Value/>
      <Footer/>
     </div>
   )
